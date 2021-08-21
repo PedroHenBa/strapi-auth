@@ -1,0 +1,11 @@
+{
+  "routes": [{
+    "method": "POST",
+    "path": "/token/decrypt",
+    "handler": "auth.tokenDecrypt",
+    "config": {
+      "policies": [],
+      "prefix": false
+    }
+  }]
+}
