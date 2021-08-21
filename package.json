@@ -17,9 +17,11 @@
     "strapi-plugin-content-manager": "^3.6.6",
     "strapi-plugin-content-type-builder": "^3.6.6",
     "strapi-plugin-email": "^3.6.6",
+    "strapi-plugin-graphql": "^3.6.7",
     "strapi-plugin-i18n": "^3.6.6",
     "strapi-plugin-upload": "^3.6.6",
     "strapi-plugin-users-permissions": "^3.6.6",
+    "strapi-provider-email-smtp": "^1.0.2",
     "strapi-provider-upload-cloudinary": "^3.6.6",
     "strapi-utils": "^3.6.6"
   },
@@ -28,10 +30,6 @@
   },
   "strapi": {
     "uuid": "0923c70d-f572-4b67-bbc2-cf1b3642e378"
-  },
-  "engines": {
-    "node": ">=10.16.0 <=14.x.x",
-    "npm": "^6.0.0"
   },
   "license": "MIT"
 }
