@@ -11,7 +11,7 @@ jwt.
 <h1>installation</h1>
 
 ```bash
-git clone https://github.com/PedroHenBa/api-strapi-blog.git
+git clone https://github.com/PedroHenBa/strapi-auth.git
 ```
 - Install dependencies
 
